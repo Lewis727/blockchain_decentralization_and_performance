@@ -5,5 +5,5 @@ This repo contains code and datasets for the research on blockchain governance d
 <br>
 ## File Description:
 <br><i>final_df</i>: the cleaned dataframe ready for analysis, including both decentralization data and features of performances
-<br>performance_df: the raw data of platform performances, acquired from Santiment
-<br>Data Acquisition and Cleaning.ipynb: Jupyter Notebook with code on data acquistion and preprocessing. 
+<br><i>performance_df</i>: the raw data of platform performances, acquired from Santiment
+  <br><i>Data Acquisition and Cleaning.ipynb</i>: Jupyter Notebook with code on data acquistion and preprocessing. 
