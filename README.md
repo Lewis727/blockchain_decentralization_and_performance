@@ -5,7 +5,7 @@ Email: zt39@duke.edu
 
 This repo contains code and datasets for the research on blockchain governance decentralization and performance.
 
-To replicate my signature work results, please run <i>Analysis.ipynb<i>
+To replicate my signature work results, please run <i>Analysis.ipynb</i>
 
 ## File Description:
 <br><i>profile_data</i>: this dataset include basic platform information as well as decentralization data
