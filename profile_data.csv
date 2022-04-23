@@ -1,0 +1,254 @@
+,type,platform,name,symbol,slug,mkt_cap,market_cap_dominance,dec_score
+0,coin,,Bitcoin,BTC,bitcoin,9.14E+11,40.9107,Decentralized
+1,coin,,Ethereum,ETH,ethereum,4.78E+11,21.3857,Semi-centralized
+2,coin,,Binance Coin,BNB,binance-coin,94292308325,4.2226,Centralized > Flat
+3,coin,,Solana,SOL,solana,52254648924,2.34,Centralized > Hierarchical
+4,coin,,Cardano,ADA,cardano,41442906190,1.8551,Semi-centralized
+7,coin,,Dogecoin,DOGE,dogecoin,21872219767,0.9791,Semi-centralized
+8,coin,,Litecoin,LTC,litecoin,10506867468,0.4703,Semi-centralized
+9,coin,,Algorand,ALGO,algorand,9385880778,0.42,Centralized > Hierarchical
+10,coin,,TRON,TRX,tron,9089103822,0.4068,Semi-centralized
+11,coin,,Bitcoin Cash,BCH,bitcoin-cash,8489039180,0.38,Decentralized
+12,coin,,Stellar,XLM,stellar,6553179785,0.2933,Centralized > Hierarchical
+13,coin,,Cosmos,ATOM,cosmos,5272661144,0.2361,Decentralized
+14,coin,,Ethereum Classic,ETC,ethereum-classic,4884399012,0.2186,Decentralized
+15,coin,,THETA,THETA,theta,4360030813,0.1952,Centralized > Hierarchical
+16,coin,,Tezos,XTZ,tezos,3862767340,0.173,Centralized > Hierarchical
+17,coin,,Fantom,FTM,fantom,3677099464,0.1648,Centralized > Flat
+18,coin,,Monero,XMR,monero,3490099683,0.1563,Decentralized
+19,coin,,Klaytn,KLAY,klaytn,3385983612,0.1516,Centralized > Flat
+21,coin,,EOS,EOS,eos,3023356037,0.1353,Centralized > Hierarchical
+22,coin,,Bitcoin SV,BSV,bitcoin-sv,2527787173,0.1131,Decentralized
+23,coin,,Kusama,KSM,kusama,2438661160,0.1091,Decentralized
+24,coin,,Zcash,ZEC,zencash,2147322622,0.0961,Semi-centralized
+25,coin,,Neo,NEO,neo,1919950332,0.086,Semi-centralized
+26,coin,,Waves,WAVES,waves,1663333878,0.0746,Centralized > Hierarchical
+27,coin,,Dash,DASH,dash,1429011502,0.0641,Semi-centralized
+29,coin,,Theta Fuel,TFUEL,theta-fuel,1235448042,0.0553,Centralized > Hierarchical
+30,coin,,NEM,XEM,nem,1193229051,0.0534,Semi-centralized
+31,coin,,Decred,DCR,decred,1056770721,0.0474,Semi-centralized
+32,coin,,WAX,WAXP,wax,962273762.2,0.0431,Semi-centralized
+33,coin,,Qtum,QTUM,qtum,958389965.5,0.0429,Semi-centralized
+34,coin,,Ravencoin,RVN,ravencoin,868974554.5,0.0389,Decentralized
+35,coin,,Siacoin,SC,siacoin,804510358.8,0.036,Centralized > Hierarchical
+37,coin,,ICON,ICX,icon,790521511.2,0.0354,Centralized > Hierarchical
+38,coin,,Bitcoin Gold,BTG,bitcoin-gold,780087903.4,0.0349,Semi-centralized
+41,coin,,Ontology,ONT,ontology,618779751.2,0.0277,Centralized > Flat
+43,coin,,IOST,IOST,iostoken,564709391.1,0.0253,Decentralized
+44,coin,,DigiByte,DGB,digibyte,513455258.6,0.023,Decentralized
+45,coin,,Syscoin,SYS,syscoin,422302643.4,0.0189,Semi-centralized
+46,coin,,Lisk,LSK,lisk,314211823,0.0141,Decentralized
+48,coin,,Verge,XVG,verge,298039811.1,0.0133,Semi-centralized
+49,coin,,MediBloc,MED,medibloc,297297767.4,0.0133,Centralized > Hierarchical
+50,coin,,COTI,COTI,coti,264689028,0.0119,Centralized > Hierarchical
+51,coin,,Divi,DIVI,divi,261582152.2,0.0117,Semi-centralized
+52,coin,,Bitcoin Diamond,BCD,bitcoin-diamond,260300179.8,0.0117,Decentralized
+53,coin,,NKN,NKN,nkn,253225547.5,0.0114,Semi-centralized
+56,coin,,Counos X,CCXX,counos-x,943372701,0,Decentralized
+58,coin,,KardiaChain,KAI,kardiachain,249572940.8,0,Centralized > Hierarchical
+60,coin,,Sapphire,SAPP,sapphire,227595604.9,0,Decentralized
+61,coin,,Pirate Chain,ARRR,pirate-chain,221211194.1,0,Decentralized
+62,coin,,Electroneum,ETN,electroneum,213786910,0,Semi-centralized
+64,coin,,Constellation,DAG,constellation,191149534,0.0086,Semi-centralized
+65,coin,,Stratis,STRAX,stratis,190068838.5,0.0085,Centralized > Hierarchical
+66,coin,,ABBC Coin,ABBC,abbc-coin,186553594,0.0084,Centralized > Hierarchical
+67,coin,,Telos,TLOS,telos,185106421.8,0,Centralized > Hierarchical
+68,coin,,Steem,STEEM,steem,177427406.9,0.008,Centralized > Hierarchical
+69,coin,,TomoChain,TOMO,tomochain,177085518.7,0.0079,Centralized > Hierarchical
+70,coin,,Ark,ARK,ark,167974555.5,0.0075,Centralized > Hierarchical
+71,coin,,Ergo,ERG,ergo,164377306.9,0.0074,Semi-centralized
+72,coin,,Kin,KIN,kin,158042564.5,0.0071,Centralized > Hierarchical
+74,coin,,Dero,DERO,dero,138537522.8,0.0062,Decentralized
+75,coin,,Wanchain,WAN,wanchain,132252935.7,0.0059,Centralized > Hierarchical
+76,coin,,Zenon,ZNN,zenon,130560948.8,0,Decentralized
+78,coin,,GXChain,GXC,gxchain,127534572.1,0.0057,Centralized > Hierarchical
+80,coin,,Handshake,HNS,handshake,114911592.7,0.0051,Decentralized
+81,coin,,IRISnet,IRIS,irisnet,105874429.2,0.0047,Decentralized
+82,coin,,Haven Protocol,XHV,haven-protocol,102653643.3,0.0046,Decentralized
+83,coin,,BitShares,BTS,bitshares,102478647.6,0.0046,Decentralized
+84,coin,,Komodo,KMD,komodo,98987880.19,0.0044,Semi-centralized
+86,coin,,MonaCoin,MONA,monacoin,95638916.2,0.0043,Decentralized
+88,coin,,NULS,NULS,nuls,87310934.94,0.0039,Centralized > Hierarchical
+90,coin,,Fusion,FSN,fusion,80823360.54,0.0036,Semi-centralized
+91,coin,,Aion,AION,aion,78752040.57,0.0035,Semi-centralized
+92,coin,,Energi,NRG,energi,74009949.4,0.0033,Centralized > Hierarchical
+93,coin,,MimbleWimbleCoin,MWC,mimblewimblecoin,72551285.36,0,Decentralized
+95,coin,,Cortex,CTXC,cortex,70555331.99,0.0032,Centralized > Flat
+96,coin,,Beam,BEAM,beam,68403564.06,0.0031,Centralized > Hierarchical
+97,coin,,Bytom,BTM,bytom,65974846.41,0.003,Centralized > Hierarchical
+98,coin,,Adshares,ADS,adshares,64372028.1,0.0029,Centralized > Flat
+99,coin,,VerusCoin,VRSC,veruscoin,58686685.75,0,Decentralized
+100,coin,,Steem Dollars,SBD,steem-dollars,58044064.38,0.0026,Decentralized
+101,coin,,Bytecoin,BCN,bytecoin-bcn,57936217.56,0,Semi-centralized
+102,coin,,Groestlcoin,GRS,groestlcoin,57051068.48,0.0026,Semi-centralized
+104,coin,,Elastos,ELA,elastos,53395744.73,0.0024,Semi-centralized
+107,coin,,Edgeware,EDG,edgeware,45594876.45,0,Decentralized
+108,coin,,v.systems,VSYS,v-systems,45403101,0.002,Centralized > Flat
+110,coin,,VITE,VITE,vite,41422307.81,0.0019,Centralized > Flat
+111,coin,,GoChain,GO,gochain,40003857.25,0.0018,Semi-centralized
+112,coin,,Vertcoin,VTC,vertcoin,38764979.73,0.0017,Semi-centralized
+113,coin,,Counterparty,XCP,counterparty,37523940.78,0,Semi-centralized
+114,coin,,WaykiChain,WICC,waykichain,37306544.99,0.0017,Centralized > Hierarchical
+115,coin,,PIVX,PIVX,pivx,36410406.57,0.0016,Decentralized
+116,coin,,MultiVAC,MTV,multivac,36227647.77,0.0016,Semi-centralized
+117,coin,,Nexus,NXS,nexus,33746048.1,0.0015,Semi-centralized
+118,coin,,Stakenet,XSN,stakenet,32263884.31,0,Semi-centralized
+119,coin,,ChainX,PCX,chainx,28506230.01,0,Decentralized
+122,coin,,Grin,GRIN,grin,24907893.06,0.0011,Decentralized
+123,coin,,#MetaHash,MHC,metahash,24426602.94,0.0011,Semi-centralized
+124,coin,,Navcoin,NAV,nav-coin,24130593.03,0.0011,Decentralized
+125,coin,,Peony,PNY,peony,24092791.17,0.0011,Decentralized
+126,coin,,Lamden,TAU,lamden,23122442.37,0.001,Semi-centralized
+127,coin,,Namecoin,NMC,namecoin,22666666.76,0,Decentralized
+128,coin,,HyperCash,HC,hypercash,20983375.51,0.0009,Centralized > Hierarchical
+129,coin,,Nebulas,NAS,nebulas-token,20547534.52,0.0009,Centralized > Hierarchical
+130,coin,,Quantum Resistant Ledger,QRL,quantum-resistant-ledger,19938932.8,0.0009,Semi-centralized
+131,coin,,Neblio,NEBL,neblio,19884440.6,0.0009,Semi-centralized
+132,coin,,Peercoin,PPC,peercoin,19589806.21,0.0009,Decentralized
+133,coin,,Aidos Kuneen,ADK,aidos-kuneen,18816826.88,0.0008,Centralized > Flat
+137,coin,,Metaverse ETP,ETP,metaverse,14478058.36,0.0006,Semi-centralized
+138,coin,,ProximaX,XPX,proximax,14475829.54,0.0006,Semi-centralized
+139,coin,,EOS Force,EOSC,eos-force,14362641.44,0.0006,Decentralized
+142,coin,,TrueChain,TRUE,truechain,13006460.33,0.0006,Decentralized
+144,coin,,Birake,BIR,birake,11166611.01,0.0005,Centralized > Hierarchical
+145,coin,,Enecuum,ENQ,enecuum,9804978.104,0.0004,Centralized > Hierarchical
+147,coin,,Matrix AI Network,MAN,matrix-ai-network,9606709.787,0.0004,Semi-centralized
+149,coin,,EUNO,EUNO,euno,9276655.301,0,Centralized > Hierarchical
+150,coin,,Litecoin Cash,LCC,litecoin-cash,8861678.15,0.0004,Decentralized
+152,coin,,High Performance Blockchain,HPB,high-performance-blockchain,8708725.188,0.0004,Semi-centralized
+153,coin,,Gulden,NLG,gulden,8666178.444,0,Semi-centralized
+154,coin,,Blocknet,BLOCK,blocknet,8621724.474,0.0004,Semi-centralized
+155,coin,,Plian,PI,pchain,8250534.838,0.0004,Semi-centralized
+159,coin,,Einsteinium,EMC2,einsteinium,7196837.677,0.0003,Semi-centralized
+160,coin,,Ubiq,UBQ,ubiq,6940711.261,0.0003,Semi-centralized
+161,coin,,NewYorkCoin,NYC,newyorkcoin,6699316.394,0,Semi-centralized
+163,coin,,Achain,ACT,achain,6321722.991,0.0003,Centralized > Flat
+164,coin,,Credits,CS,credits,6181810.341,0.0003,Semi-centralized
+165,coin,,Project Pai,PAI,project-pai,5989861.133,0.0003,Centralized > Hierarchical
+167,coin,,Bitcoin Private,BTCP,bitcoin-private,5700747.762,0.0003,Decentralized
+171,coin,,Viacoin,VIA,viacoin,4772707.939,0.0002,Decentralized
+172,coin,,Wagerr,WGR,wagerr,4608027.895,0.0002,Semi-centralized
+175,coin,,CyberMiles,CMT,cybermiles,4421720.627,0.0002,Centralized > Hierarchical
+176,coin,,Zynecoin,ZYN,zynecoin,4407438.384,0,Decentralized
+177,coin,,SmartCash,SMART,smartcash,4251118.363,0.0002,Decentralized
+178,coin,,Monero Classic,XMC,monero-classic,4087600.112,0.0002,Decentralized
+181,coin,,Aeon,AEON,aeon,4005535.693,0,Centralized > Flat
+183,coin,,Footballcoin,XFC,footballcoin,3938041.741,0,Decentralized
+189,coin,,DigitalNote,XDN,digitalnote,3229907.57,0.0001,Decentralized
+190,coin,,Feathercoin,FTC,feathercoin,3088290.392,0,Centralized > Flat
+191,coin,,Sumokoin,SUMO,sumokoin,2829432.262,0,Decentralized
+195,coin,,Emercoin,EMC,emercoin,2561728.944,0.0001,Semi-centralized
+196,coin,,PegNet,PEG,pegnet,2550115.229,0,Decentralized
+199,coin,,Ulord,UT,ulord,2338024.926,0.0001,Semi-centralized
+202,coin,,eXPerience Chain,XPC,experience-chain,2167278.616,0,Decentralized
+209,coin,,Dimecoin,DIME,dimecoin,2056073.176,0,Centralized > Hierarchical
+211,coin,,Omni,OMNI,omni,1914135.571,0.0001,Semi-centralized
+214,coin,,ODUWA,OWC,oduwa,1754350.179,0.0001,Decentralized
+217,coin,,I/O Coin,IOC,iocoin,1528272.592,0,Semi-centralized
+218,coin,,CloakCoin,CLOAK,cloakcoin,1516564.615,0,Centralized > Flat
+224,coin,,ZClassic,ZCL,zclassic,1304099.956,0,Decentralized
+228,coin,,TokenPay,TPAY,tokenpay,1135163.151,0.0001,Semi-centralized
+233,coin,,Ryo Currency,RYO,ryo-currency,1030650.509,0,Decentralized
+236,coin,,Vipstar Coin,VIPS,vipstar-coin,945245.31,0,Centralized > Flat
+238,coin,,Netbox Coin,NBX,netbox-coin,906982.639,0,Semi-centralized
+243,coin,,Pigeoncoin,PGN,pigeoncoin,752983.5466,0,Centralized > Flat
+246,coin,,MicroBitcoin,MBC,microbitcoin,669224.7415,0,Decentralized
+252,coin,,HYCON,HYC,hycon,525039.2429,0,Centralized > Flat
+254,coin,,Nerva,XNV,nerva,485393.0906,0,Decentralized
+259,coin,,GoldMint,MNTP,goldmint,421614.6889,0,Centralized > Hierarchical
+263,coin,,Bitblocks,BBK,bitblocks,247424.9491,0,Decentralized
+265,token,Ethereum,Tether,USDT,tether,76179734645,3.4086,Centralized > Hierarchical
+266,token,Ethereum,USD Coin,USDC,usd-coin,41449248340,1.8572,Decentralized
+267,token,Ethereum,Wrapped Bitcoin,WBTC,wrapped-bitcoin,12312512089,0.5511,Decentralized
+268,token,Ethereum,Uniswap,UNI,uniswap,9793076836,0.4385,Decentralized
+269,token,Ethereum,Chainlink,LINK,chainlink,8892282595,0.3979,Semi-centralized
+270,token,Ethereum,Dai,DAI,multi-collateral-dai,6510178451,0.2914,Semi-centralized
+271,token,Ethereum,Decentraland,MANA,decentraland,6010959030,0.2691,Semi-centralized
+273,token,Binance Chain (BEP2),Bitcoin BEP2,BTCB,bitcoin-bep2,5082469627,0.2275,Decentralized
+275,token,Tron10,BitTorrent,BTT,bittorrent,3229254066,0.1445,Decentralized
+276,token,Ethereum,Loopring,LRC,loopring,3133328846,0.1403,Centralized > Hierarchical
+277,token,Ethereum,Maker,MKR,maker,2352125648,0.1053,Semi-centralized
+278,token,Ethereum,Enjin Coin,ENJ,enjin-coin,2067874676,0.0926,Centralized > Flat
+279,token,Binance Chain (BEP2),THORChain,RUNE,thorchain,1723558995,0.0772,Decentralized
+281,token,Ethereum,Basic Attention Token,BAT,basic-attention-token,1618099757,0.0725,Centralized > Hierarchical
+282,token,Ethereum,Huobi Token,HT,huobi-token,1588340545,0.0712,Decentralized
+283,token,Ethereum,Holo,HOT,holo,1457993911,0.0653,Centralized > Flat
+285,token,Binance Chain (BEP2),Nexo,NEXO,nexo,1295608272,0.058,Centralized > Hierarchical
+286,token,Ethereum,Compound,COMP,compound,1159686149,0.0519,Decentralized
+287,token,Ethereum,Pax Dollar,USDP,paxos-standard,945050041,0.0423,Centralized > Hierarchical
+288,token,Ethereum,Celsius,CEL,celsius,929726430.5,0.0416,Centralized > Hierarchical
+289,token,Binance Chain (BEP2),Ankr,ANKR,ankr,844439025.6,0.0378,Centralized > Hierarchical
+290,token,Ethereum,Bancor,BNT,bancor,776322852.8,0.0348,Semi-centralized
+291,token,,Livepeer,LPT,livepeer,770143204.2,0.0345,Centralized > Hierarchical
+292,token,Klaytn,BORA,BORA,bora,743107599.7,0.0332,Decentralized
+293,token,Ethereum,0x,ZRX,0x,687458145.6,0.0308,Semi-centralized
+294,token,Ethereum,SwissBorg,CHSB,swissborg,681117027.8,0.0305,Semi-centralized
+295,token,Ethereum,Telcoin,TEL,telcoin,649635090.1,0.0291,Semi-centralized
+296,token,Ethereum,Gnosis,GNO,gnosis-gno,645239888.5,0.0289,Semi-centralized
+297,token,Ethereum,Synthetix,SNX,synthetix-network-token,616720046.2,0.0276,Centralized > Hierarchical
+298,token,Ethereum,Storj,STORJ,storj,564920034.8,0.0253,Semi-centralized
+299,token,Ethereum,Ren,REN,ren,541501066.7,0.0242,Centralized > Hierarchical
+300,token,Binance Chain (BEP2),Kava,KAVA,kava,508485688.4,0.0228,Centralized > Hierarchical
+301,token,Ethereum,Ocean Protocol,OCEAN,ocean-protocol,508012659,0.0227,Decentralized
+302,token,Ethereum,Request,REQ,request,480569054.8,0.0215,Centralized > Flat
+304,token,Ethereum,XYO,XYO,xyo,447452796,0.02,Centralized > Hierarchical
+306,token,Ethereum,Reserve Rights,RSR,reserve-rights,432234552.6,0.0193,Centralized > Hierarchical
+308,token,Ethereum,Celer Network,CELR,celer-network,399782047.5,0.0179,Decentralized
+309,token,Ethereum,OriginTrail,TRAC,origintrail,388620907.3,0.0174,Semi-centralized
+310,token,Ethereum,Fetch.ai,FET,fetch,382810595.7,0.0171,Centralized > Hierarchical
+311,token,Binance Chain (BEP2),WazirX,WRX,wazirx,375054853.8,0.0168,Centralized > Hierarchical
+315,token,Ethereum,Cartesi,CTSI,cartesi,337949022.3,0.0151,Centralized > Hierarchical
+316,token,Ethereum,PAX Gold,PAXG,pax-gold,320215580.5,0.0143,Centralized > Hierarchical
+318,token,,VeThor Token,VTHO,vethor-token,269118045.1,0.012,Centralized > Hierarchical
+319,token,Ethereum,Orchid,OXT,orchid,260158934.5,0.0116,Decentralized
+320,token,Ethereum,Status,SNT,status,256487050.9,0.0115,Semi-centralized
+322,token,Ethereum,iExec RLC,RLC,rlc,224179678,0.01,Semi-centralized
+323,token,Ethereum,HEX,HEX,hex,24033182643,0,Decentralized
+324,token,Ethereum,Rocket Pool,RPL,rocket-pool,476936575.7,0,Centralized > Hierarchical
+327,token,Ethereum,HedgeTrade,HEDG,hedgetrade,251619651.1,0,Decentralized
+329,token,Ethereum,aelf,ELF,aelf,210476808.5,0.0094,Semi-centralized
+331,token,Ethereum,Augur,REP,augur,189717250.1,0.0085,Semi-centralized
+337,token,Ethereum,Utrust,UTK,utrust,131398553.5,0.0059,Centralized > Hierarchical
+338,token,EOS,Everipedia,IQ,everipedia,123218429.9,0.0055,Centralized > Flat
+340,token,Ethereum,STASIS EURO,EURS,stasis-euro,113640070,0.0051,Centralized > Hierarchical
+342,token,Binance Chain (BEP2),Contentos,COS,contentos,98052298.66,0.0044,Decentralized
+343,token,,Mobius,MOBI,mobius,95179219.29,0.0043,Semi-centralized
+344,token,Ethereum,Presearch,PRE,presearch,95020564.58,0,Centralized > Hierarchical
+345,token,Ethereum,Bread,BRD,bread,93757482.66,0.0042,Centralized > Hierarchical
+346,token,Ethereum,Cocos-BCX,COCOS,cocos-bcx,93148219.1,0.0042,Decentralized
+347,token,Cosmos,Sentinel,DVPN,sentinel,92598479.33,0,Decentralized
+348,token,Ethereum,Travala.com,AVA,travala,91889858.23,0.0041,Semi-centralized
+349,token,Ethereum,Moss Coin,MOC,moss-coin,91410024.15,0.0041,Centralized > Hierarchical
+350,token,Ethereum,Hifi Finance,MFT,mainframe,91006681.54,0.0041,Semi-centralized
+352,token,Binance Smart Chain (BEP20),Tranchess,CHESS,tranchess,89338910.94,0,Decentralized
+353,token,Ethereum,Loom Network,LOOM,loom-network,88236726.64,0.0039,Centralized > Hierarchical
+354,token,Ethereum,Elitium,EUM,elitium,88013601.94,0,Centralized > Hierarchical
+355,token,Ethereum,district0x,DNT,district0x,85105553.09,0.0038,Semi-centralized
+357,token,Ethereum,DomRaider,DRT,domraider,78481272.2,0,Centralized > Hierarchical
+358,token,Ethereum,Measurable Data Token,MDT,measurable-data-token,76506093.59,0,Centralized > Hierarchical
+359,token,Ethereum,Sentinel Protocol,UPP,sentinel-protocol,73516553.93,0.0033,Semi-centralized
+360,token,Binance Chain (BEP2),Aergo,AERGO,aergo,71281456.14,0.0032,Centralized > Flat
+363,token,Ethereum,Metronome,MET,metronome,64172742.9,0.0029,Semi-centralized
+364,token,Ethereum,Selfkey,KEY,selfkey,63512736.17,0.0028,Centralized > Flat
+365,token,Ethereum,DigixDAO,DGD,digixdao,61966185.34,0.0028,Centralized > Hierarchical
+368,token,Ethereum,Kryll,KRL,kryll,54008277.2,0.0024,Semi-centralized
+369,token,Ethereum,VideoCoin,VID,videocoin,53899768.53,0,Centralized > Hierarchical
+370,token,Ethereum,Kleros,PNK,kleros,52233652.26,0.0023,Centralized > Hierarchical
+371,token,Ethereum,PolySwarm,NCT,polyswarm,51256277.52,0.0023,Semi-centralized
+372,token,,Dock,DOCK,dock,50663251.89,0.0023,Semi-centralized
+376,token,Ethereum,FirmaChain,FCT,firmachain,46969792.08,0,Centralized > Hierarchical
+377,token,,SIX,SIX,six,46759143.38,0.0021,Centralized > Hierarchical
+378,token,Ethereum,SOLVE,SOLVE,solve,46066523.52,0.0021,Centralized > Hierarchical
+381,token,Ethereum,BABB,BAX,babb,36805601.31,0.0016,Centralized > Hierarchical
+5,coin,,XRP,XRP,ripple,38941582796,1.7458,Centralized > Hierarchical
+6,coin,,Terra,LUNA,luna,23646763204,1.0601,Centralized > Hierarchical
+36,coin,,Horizen,ZEN,horizen,793631490.8,0.0355,Semi-centralized
+77,coin,,POA Network,POA,poa-network,129852311.6,0.0058,Decentralized
+79,coin,,RSK Smart Bitcoin,RBTC,smart-bitcoin,124958716,0.0056,Centralized > Hierarchical
+135,coin,,Infinitecoin,IFC,infinitecoin,16205024.01,0.0007,Decentralized
+157,coin,,StakeCubeCoin,SCC,stockchain,7524757.86,0,Centralized > Flat
+168,coin,,INT,INT,internet-node-token,5438172.917,0.0002,Centralized > Flat
+225,coin,,Phoenixcoin,PXC,pixie-coin,1237055.925,0,Decentralized
+351,token,Ethereum,Streamr,DATA,streamr-datacoin,90780919.46,0.0041,Centralized > Hierarchical
+356,token,Ethereum,DAD,DAD,dad-chain,83384394.63,0.0037,Centralized > Hierarchical
+380,token,Ethereum,ForTube,FOR,forceprotocol,40685336.76,0.0018,Decentralized
