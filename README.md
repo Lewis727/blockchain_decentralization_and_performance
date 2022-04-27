@@ -18,6 +18,3 @@ To replicate my signature work results, please run <i>Analysis.ipynb</i>
 <img src="https://drive.google.com/uc?export=view&id=1U7s9wWNlQh9qitt_J9UdWl8V9MX87Bbi" style="width: 150px; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
 Ziliang (Lewis) Tian graduated from Duke Kunshan University majored in data science. He is a global visionary who enjoys working with people from all disciplines. He is always seeking new horizons and innovative solutions to complex problems. The fields of quantitative, sustainable finance and FinTech are of great interest to him. 
-
-[Twitter](https://twitter.com/LewisTian5)
-
